@@ -1,0 +1,9 @@
+# 备份、临时文件
+_backup/
+*.bak
+*.bak[0-9]
+*.swp
+*.swo
+
+# packer 遗留
+plugin/packer_compiled.lua
